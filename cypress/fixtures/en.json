@@ -1,0 +1,33 @@
+{
+    "btn": {
+        "sign-up-btn": "Sign up now"
+    },
+    "fnf": {
+        "family-friends": "Friends & family",
+        "friends": "friends"
+    },
+    "tfr": {
+        "try-for-free": "Try for free"
+    },
+    "how": {
+        "how-it-works": "How it works",
+        "sub": "Omnifood AI chooses from 5,000+ recipes"
+    },
+    "meals": {
+        "meals": "Meals",
+        "sub": "Omnifood AI chooses from 5,000+ recipes"
+    },
+    "lrn": {
+        "learn": "Learn more"
+    },
+    "praise":{
+        "testimonials": "Testimonials",
+        "sub": "Once you try it, you can't go back"
+    },
+    "price":{
+        "price": "Pricing",
+        "sub": "Eating well without breaking the bank",
+        "starter": "Starter",
+        "register": "Start eating well"
+    }
+}
